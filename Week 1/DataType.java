@@ -1,8 +1,8 @@
 public class DataType {
 	public static void main(String[] args) {
 		
-		boolean b = true ; // daynamic
-		// b = false; //same aas above
+		boolean b = true ;
+		// b = false; //same as above
 		
 		int i = 100;
 		
